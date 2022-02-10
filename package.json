@@ -1,0 +1,8 @@
+{
+  "name": "tree-shaking",
+  "private": true,
+  "workspaces": ["lib", "main"],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
